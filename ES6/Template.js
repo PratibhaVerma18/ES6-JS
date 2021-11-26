@@ -4,7 +4,7 @@ let lname="verma";
 
 // console.log(`my name is ${fname}. my last name is ${lname}`);
 
-//we can add expession too
+//we can add expession toonjehjdebh
 
 let a=20;
 let b=30;
